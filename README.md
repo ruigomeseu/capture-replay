@@ -7,6 +7,8 @@
 
 2. Descarregue ou clone este repositório num diretório à sua escolha.
 
+3. Garante também que tem o Eclipse instalado.
+
 # Configuração
 
 1. Inicie o MarathonITE.
