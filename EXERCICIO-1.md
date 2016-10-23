@@ -52,4 +52,10 @@ Confirme que a função "assert_p" foi adicionada ao script no Marathon Control 
 
 O MarathonITE vai confirmar que as asserções que inseriu se confirmam.
 
+## Alínea c)
 
+Para confirmar que as operações "assert_p" realmente funcionam, experimente alterar o terceiro argumento de qualquer uma destas operações.
+
+Execute o teste através do menu "Marathon" -> "Play".
+
+Verifique que no menu Results o erro é reportado pelo MarathonITE, indicando ao programador em que linha do script falhou, qual o resultado esperado e qual o resultado encontrado.
